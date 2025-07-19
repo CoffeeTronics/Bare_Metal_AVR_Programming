@@ -8,7 +8,7 @@ In the 2nd episode of the bare metal programming series for the AVR® Tiny2, we 
    - Using bit masks, bit positions, group masks  
    - Group configuration masks and enumerators  
 
-Helpful Links:
+Helpful Links:  
 [TB3262 Getting Started with Writing C-Code for AVR® MCUs](https://mchp.us/34HSmoU)  
 [ATtiny1627 Family](https://mchp.us/3hdTmo1)  
 [ATtiny1627 Curiosity Nano](https://mchp.us/3BPuHiQ)  
