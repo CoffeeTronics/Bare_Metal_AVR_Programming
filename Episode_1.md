@@ -2,13 +2,9 @@
 
 This is the first episode in a new series on bare metal programming with the AVR®Tiny2 (ATtiny1627 family of MCUs). This first video covers what bare metal programing is, and how to:
 
-Add Device Family Packs to MPLAB® X IDE  
-Find the datasheet using MPLAB X IDE  
-Use tech briefs and macros for human readable bare metal code  
-
-Add Device Family Packs to MPLAB® X IDE  
-Find the datasheet using MPLAB X IDE  
-Use tech briefs and macros for human readable bare metal code  
+   - Add Device Family Packs to MPLAB® X IDE  
+   - Find the datasheet using MPLAB X IDE  
+   - Use tech briefs and macros for human readable bare metal code  
 
 Relevant links:
 
