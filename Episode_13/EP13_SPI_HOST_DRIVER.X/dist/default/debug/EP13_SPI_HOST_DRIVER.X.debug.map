@@ -1,0 +1,1030 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_copy_data.o)
+                              build/default/debug/usart0_tx.o (__do_copy_data)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(exit.o)
+                              C:/Users/c52467/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8/avr/lib/avrxmega2/memx-const/crtavr64dd32.o (exit)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o)
+                              build/default/debug/main.o (_printf_cdopuxX)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_d.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o) (__fmt_d_needed)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_o.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o) (__fmt_o_needed)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_s.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o) (__fmt_s_needed)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_u.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_d.o) (__cvt_u)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_x.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o) (__fmt_x_needed)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__pop_int.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o) (__pop_int_needed)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_d.o) (__pad)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputc.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o) (fputc)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(puts.o)
+                              build/default/debug/main.o (puts)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(stdout.o)
+                              build/default/debug/usart0_tx.o (_stdout)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(strlen.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_s.o) (strlen)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(tolower.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o) (tolower)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(toupper.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_x.o) (toupper)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(errno.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o) (__errno_val)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(_Exit.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(exit.o) (_Exit)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__int_vfprintf.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o) (__vfprintf)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputs.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(puts.o) (fputs)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_udivmodsi4.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_u.o) (__udivmodsi4)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_exit.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(_Exit.o) (_exit)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_prologue.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o) (__prologue_saves__)
+c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_epilogue.o)
+                              c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+__stdout_used       0x2               c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(stdout.o)
+__errno_val         0x2               c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(errno.o)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 C:/Users/c52467/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8/avr/lib/avrxmega2/memx-const/crtavr64dd32.o
+ .bss           0x0000000000000000        0x0 C:/Users/c52467/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8/avr/lib/avrxmega2/memx-const/crtavr64dd32.o
+ .text          0x0000000000000000        0x0 build/default/debug/main.o
+ .data          0x0000000000000000        0x0 build/default/debug/main.o
+ .bss           0x0000000000000000        0x0 build/default/debug/main.o
+ .text.SPI_Select_Client
+                0x0000000000000000        0x8 build/default/debug/main.o
+ .text.SPI_Deselect_Client
+                0x0000000000000000        0x8 build/default/debug/main.o
+ .text.SPI_Write_Byte
+                0x0000000000000000       0x10 build/default/debug/main.o
+ .text.SPI_Read_Byte
+                0x0000000000000000        0x6 build/default/debug/main.o
+ .text.SPI_Exchange_Byte
+                0x0000000000000000       0x1e build/default/debug/main.o
+ .text          0x0000000000000000        0x0 build/default/debug/main_clk_ctrl.o
+ .data          0x0000000000000000        0x0 build/default/debug/main_clk_ctrl.o
+ .bss           0x0000000000000000        0x0 build/default/debug/main_clk_ctrl.o
+ .text          0x0000000000000000        0x0 build/default/debug/usart0_tx.o
+ .data          0x0000000000000000        0x0 build/default/debug/usart0_tx.o
+ .bss           0x0000000000000000        0x0 build/default/debug/usart0_tx.o
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(exit.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(exit.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x73 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(exit.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o)
+ .stack.descriptors
+                0x0000000000000000       0x3a c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o)
+ .text.__sio_printf_doux
+                0x0000000000000000       0x1a c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_d.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_d.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_d.o)
+ .stack.descriptors
+                0x0000000000000000       0x15 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_d.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_o.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_o.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_o.o)
+ .stack.descriptors
+                0x0000000000000000       0x15 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_o.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_s.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_s.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_s.o)
+ .stack.descriptors
+                0x0000000000000000       0x15 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_s.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_u.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_u.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_u.o)
+ .stack.descriptors
+                0x0000000000000000       0x2a c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_u.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_x.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_x.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_x.o)
+ .stack.descriptors
+                0x0000000000000000       0x15 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_x.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__pop_int.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__pop_int.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__pop_int.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__pop_int.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+ .stack.descriptors
+                0x0000000000000000       0x91 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputc.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputc.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputc.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputc.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(puts.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(puts.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(puts.o)
+ .stack.descriptors
+                0x0000000000000000       0x12 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(puts.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(stdout.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(stdout.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(stdout.o)
+ .stack.descriptors
+                0x0000000000000000       0x1b c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(stdout.o)
+ .text.__init_stdout
+                0x0000000000000000       0x1e c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(stdout.o)
+ .data.f        0x0000000000000000       0x11 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(stdout.o)
+ COMMON         0x0000000000000000        0x2 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(stdout.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(strlen.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(strlen.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(strlen.o)
+ .stack.descriptors
+                0x0000000000000000       0x14 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(strlen.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(tolower.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(tolower.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(tolower.o)
+ .stack.descriptors
+                0x0000000000000000       0x2e c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(tolower.o)
+ .text.__tolower_l
+                0x0000000000000000        0x6 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(tolower.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(toupper.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(toupper.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(toupper.o)
+ .stack.descriptors
+                0x0000000000000000       0x2e c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(toupper.o)
+ .text.__toupper_l
+                0x0000000000000000        0x6 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(toupper.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(errno.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(errno.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(errno.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(_Exit.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(_Exit.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(_Exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(_Exit.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__int_vfprintf.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__int_vfprintf.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__int_vfprintf.o)
+ .stack.descriptors
+                0x0000000000000000       0x18 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__int_vfprintf.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputs.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputs.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputs.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputs.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_udivmodsi4.o)
+ .stack.descriptors
+                0x0000000000000000       0x1a c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_prologue.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_prologue.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_prologue.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_prologue.o)
+ .text          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_epilogue.o)
+ .data          0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_epilogue.o)
+ .bss           0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_epilogue.o)
+ .text.libgcc   0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_epilogue.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000010000 xr
+data             0x0000000000806000 0x0000000000002000 rw !x
+eeprom           0x0000000000810000 0x0000000000000100 rw !x
+fuse             0x0000000000820000 0x0000000000000010 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+bootrow          0x0000000000860000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x806000
+                0x0000000000008000                __RODATA_PM_OFFSET__ = 0x8000
+LOAD C:/Users/c52467/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8/avr/lib/avrxmega2/memx-const/crtavr64dd32.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+LOAD build/default/debug/main.o
+LOAD build/default/debug/main_clk_ctrl.o
+LOAD build/default/debug/usart0_tx.o
+START GROUP
+LOAD c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libm.a
+END GROUP
+                0x0000000000000001                __MPLAB_DEBUG = 0x1
+                0x0000000000000001                __DEBUG = 0x1
+START GROUP
+LOAD c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a
+LOAD c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libm.a
+LOAD c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a
+LOAD C:/Users/c52467/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8/avr/lib/avrxmega2/memx-const\libavr64dd32.a
+END GROUP
+                [0x0000000000000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000806000]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x802000
+                [0x0000000000010000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                [0x0000000000002000]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000100]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000010]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __BOOTROW_REGION_LENGTH__ = DEFINED (__BOOTROW_REGION_LENGTH__)?__BOOTROW_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000       0xf6
+ *(.vectors)
+ .vectors       0x0000000000000000       0x90 C:/Users/c52467/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8/avr/lib/avrxmega2/memx-const/crtavr64dd32.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.dinit)
+ .dinit         0x0000000000000090       0x11 data_init
+                0x00000000000000a2                . = ALIGN (0x2)
+ *fill*         0x00000000000000a1        0x1 
+                0x00000000000000a2                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000000000000a2        0x0 linker stubs
+ *(.trampolines*)
+                0x00000000000000a2                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x00000000000000a2                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000000a2                __ctors_start = .
+ *(.ctors)
+                0x00000000000000a2                __ctors_end = .
+                0x00000000000000a2                __dtors_start = .
+ *(.dtors)
+                0x00000000000000a2                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000000000000a2        0x0 C:/Users/c52467/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8/avr/lib/avrxmega2/memx-const/crtavr64dd32.o
+                0x00000000000000a2                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000000000000a2        0xc C:/Users/c52467/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8/avr/lib/avrxmega2/memx-const/crtavr64dd32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000000ae       0x3c c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_copy_data.o)
+                0x00000000000000ae                __do_copy_data
+                0x00000000000000dc                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000ea        0x8 C:/Users/c52467/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8/avr/lib/avrxmega2/memx-const/crtavr64dd32.o
+ *(.init9)
+                0x00000000000000f2                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000000000000f2        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_exit.o)
+                0x00000000000000f2                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000000000000f2        0x4 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000000000000f6                _etext = .
+
+.data           0x0000000000806000        0x0 load address 0x00000000000000f6
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+ *(.gnu.linkonce.r*)
+                0x0000000000806000                . = ALIGN (0x2)
+                0x0000000000806000                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000806000        0x2
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(COMMON)
+ COMMON         0x0000000000806000        0x2 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(errno.o)
+                0x0000000000806000                __errno_val
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x00000000000000f6                __data_load_start = LOADADDR (.data)
+                0x00000000000000f6                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000806002        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000806002                _end = .
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.bootrow
+ *(.bootrow*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x5b
+ *(.comment)
+ .comment       0x0000000000000000       0x2f build/default/debug/main.o
+                                         0x30 (size before relaxing)
+ .comment       0x000000000000002f       0x30 build/default/debug/main_clk_ctrl.o
+ .comment       0x000000000000002f       0x30 build/default/debug/usart0_tx.o
+ .comment       0x000000000000002f       0x2c c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(exit.o)
+                                         0x2d (size before relaxing)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_d.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_o.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_s.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_u.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_x.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__pop_int.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputc.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(puts.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(stdout.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(strlen.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(tolower.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(toupper.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(errno.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(_Exit.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__int_vfprintf.o)
+ .comment       0x000000000000005b       0x2d c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputs.o)
+
+.stack.descriptors.hdr
+                0x0000000000000000      0x126
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(exit.o)
+ .stack.descriptors.hdr
+                0x000000000000000e        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o)
+ .stack.descriptors.hdr
+                0x000000000000001c        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_d.o)
+ .stack.descriptors.hdr
+                0x000000000000002a        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_o.o)
+ .stack.descriptors.hdr
+                0x0000000000000038        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_s.o)
+ .stack.descriptors.hdr
+                0x0000000000000046        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_u.o)
+ .stack.descriptors.hdr
+                0x0000000000000054        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_x.o)
+ .stack.descriptors.hdr
+                0x0000000000000062        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__pop_int.o)
+ .stack.descriptors.hdr
+                0x0000000000000070        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+ .stack.descriptors.hdr
+                0x000000000000007e        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputc.o)
+ .stack.descriptors.hdr
+                0x000000000000008c        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(puts.o)
+ .stack.descriptors.hdr
+                0x000000000000009a        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(stdout.o)
+ .stack.descriptors.hdr
+                0x00000000000000a8        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(strlen.o)
+ .stack.descriptors.hdr
+                0x00000000000000b6        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(tolower.o)
+ .stack.descriptors.hdr
+                0x00000000000000c4        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(toupper.o)
+ .stack.descriptors.hdr
+                0x00000000000000d2        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(errno.o)
+ .stack.descriptors.hdr
+                0x00000000000000e0        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(_Exit.o)
+ .stack.descriptors.hdr
+                0x00000000000000ee        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__int_vfprintf.o)
+ .stack.descriptors.hdr
+                0x00000000000000fc        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputs.o)
+ .stack.descriptors.hdr
+                0x000000000000010a        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_udivmodsi4.o)
+ .stack.descriptors.hdr
+                0x0000000000000118        0xe c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_exit.o)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(exit.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_d.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_o.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_s.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_u.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_x.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__pop_int.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputc.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(puts.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(stdout.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(strlen.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(tolower.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(toupper.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(errno.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(_Exit.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__int_vfprintf.o)
+ .note.GNU-stack
+                0x0000000000000000        0x0 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputs.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000       0xa0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x50 build/default/debug/main.o
+ .debug_aranges
+                0x0000000000000050       0x20 build/default/debug/main_clk_ctrl.o
+ .debug_aranges
+                0x0000000000000070       0x30 build/default/debug/usart0_tx.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x477a
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000     0x22a4 C:/Users/c52467/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8/avr/lib/avrxmega2/memx-const/crtavr64dd32.o
+ .debug_info    0x00000000000022a4      0xe49 build/default/debug/main.o
+ .debug_info    0x00000000000030ed      0xa1c build/default/debug/main_clk_ctrl.o
+ .debug_info    0x0000000000003b09      0xc71 build/default/debug/usart0_tx.o
+
+.debug_abbrev   0x0000000000000000     0x2566
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0x20ce C:/Users/c52467/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8/avr/lib/avrxmega2/memx-const/crtavr64dd32.o
+ .debug_abbrev  0x00000000000020ce      0x1e9 build/default/debug/main.o
+ .debug_abbrev  0x00000000000022b7       0xd3 build/default/debug/main_clk_ctrl.o
+ .debug_abbrev  0x000000000000238a      0x1dc build/default/debug/usart0_tx.o
+
+.debug_line     0x0000000000000000      0x6c0
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x172 C:/Users/c52467/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8/avr/lib/avrxmega2/memx-const/crtavr64dd32.o
+ .debug_line    0x0000000000000172      0x2a2 build/default/debug/main.o
+ .debug_line    0x0000000000000414      0x117 build/default/debug/main_clk_ctrl.o
+ .debug_line    0x000000000000052b      0x195 build/default/debug/usart0_tx.o
+
+.debug_frame    0x0000000000000000      0x118
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0xa8 build/default/debug/main.o
+ .debug_frame   0x00000000000000a8       0x2c build/default/debug/main_clk_ctrl.o
+ .debug_frame   0x00000000000000d4       0x44 build/default/debug/usart0_tx.o
+
+.debug_str      0x0000000000000000      0xf46
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0xefb C:/Users/c52467/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8/avr/lib/avrxmega2/memx-const/crtavr64dd32.o
+ .debug_str     0x0000000000000efb       0x1f build/default/debug/main.o
+ .debug_str     0x0000000000000f1a       0x16 build/default/debug/main_clk_ctrl.o
+ .debug_str     0x0000000000000f30       0x16 build/default/debug/usart0_tx.o
+
+.debug_loc      0x0000000000000000      0x1bb
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x40 build/default/debug/main.o
+ .debug_loc     0x0000000000000040       0x7c build/default/debug/main_clk_ctrl.o
+ .debug_loc     0x00000000000000bc       0xff build/default/debug/usart0_tx.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0xb8
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x88 build/default/debug/main.o
+ .debug_ranges  0x0000000000000088       0x10 build/default/debug/main_clk_ctrl.o
+ .debug_ranges  0x0000000000000098       0x20 build/default/debug/usart0_tx.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/debug/EP13_SPI_HOST_DRIVER.X.debug.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c C:/Users/c52467/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8/avr/lib/avrxmega2/memx-const/crtavr64dd32.o
+
+.bss.spi_data_recv
+                0x0000000000806017        0x1
+ .bss.spi_data_recv
+                0x0000000000806017        0x1 build/default/debug/main.o
+                0x0000000000806017                spi_data_recv
+
+.bss.spi_data_last_sent_byte
+                0x0000000000806018        0x1
+ .bss.spi_data_last_sent_byte
+                0x0000000000806018        0x1 build/default/debug/main.o
+                0x0000000000806018                spi_data_last_sent_byte
+
+.bss.spi_data_send_byte
+                0x0000000000806019        0x1
+ .bss.spi_data_send_byte
+                0x0000000000806019        0x1 build/default/debug/main.o
+                0x0000000000806019                spi_data_send_byte
+
+.bss.__stdout   0x0000000000806015        0x2
+ .bss.__stdout  0x0000000000806015        0x2 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(stdout.o)
+
+.progmemx.data  0x00000000000000f6       0x65
+ .progmemx.data
+                0x00000000000000f6       0x65 build/default/debug/main.o
+
+.progmemx.data.state_table
+                0x000000000000015b       0x16
+ .progmemx.data.state_table
+                0x000000000000015b       0x16 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+
+.progmemx.data.nuls.2781
+                0x0000000000000171        0x7
+ .progmemx.data.nuls.2781
+                0x0000000000000171        0x7 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_s.o)
+
+.progmemx.data.nilstr.2962
+                0x0000000000000178        0x6
+ .progmemx.data.nilstr.2962
+                0x0000000000000178        0x6 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+
+.text.vfpfcnvrt
+                0x000000000000017e      0x4cc
+ .text.vfpfcnvrt
+                0x000000000000017e      0x4cc c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+                0x000000000000017e                vfpfcnvrt
+
+.text.__fmt_x   0x000000000000064a      0x1da
+ .text.__fmt_x  0x000000000000064a      0x1da c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_x.o)
+                0x000000000000064a                __fmt_x_needed
+                0x000000000000064a                __fmt_x
+
+.text.__fmt_d   0x0000000000000824       0xe6
+ .text.__fmt_d  0x0000000000000824       0xe6 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_d.o)
+                0x0000000000000824                __fmt_d
+                0x0000000000000824                __fmt_d_needed
+
+.text.main      0x000000000000090a       0xe2
+ .text.main     0x000000000000090a       0xe2 build/default/debug/main.o
+                0x000000000000090a                main
+
+.text.__pop_int
+                0x00000000000009ec       0xda
+ .text.__pop_int
+                0x00000000000009ec       0xda c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__pop_int.o)
+                0x00000000000009ec                __pop_int_needed
+                0x00000000000009ec                __pop_int
+
+.text.__cvt_u   0x0000000000000ac6       0xca
+ .text.__cvt_u  0x0000000000000ac6       0xca c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_u.o)
+                0x0000000000000ac6                __cvt_u
+
+.text.__fmt_o   0x0000000000000b90       0xb4
+ .text.__fmt_o  0x0000000000000b90       0xb4 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_o.o)
+                0x0000000000000b90                __fmt_o
+                0x0000000000000b90                __fmt_o_needed
+
+.text.__fmt_state
+                0x0000000000000c44       0x9e
+ .text.__fmt_state
+                0x0000000000000c44       0x9e c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+                0x0000000000000c44                __fmt_state
+
+.text.__pad     0x0000000000000ce2       0x96
+ .text.__pad    0x0000000000000ce2       0x96 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+                0x0000000000000ce2                __pad
+
+.text.__printf_core
+                0x0000000000000d78       0x94
+ .text.__printf_core
+                0x0000000000000d78       0x94 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+                0x0000000000000d78                __printf_core
+
+.text.fputc     0x0000000000000e0c       0x92
+ .text.fputc    0x0000000000000e0c       0x92 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputc.o)
+                0x0000000000000e0c                fputc
+                0x0000000000000e0c                putc
+
+.text.__fmt_u   0x0000000000000e9e       0x90
+ .text.__fmt_u  0x0000000000000e9e       0x90 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_u.o)
+                0x0000000000000e9e                __fmt_u_needed
+                0x0000000000000e9e                __fmt_u
+
+.text.__fmt_s   0x0000000000000f2e       0x7a
+ .text.__fmt_s  0x0000000000000f2e       0x7a c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__fmt_s.o)
+                0x0000000000000f2e                __fmt_s
+                0x0000000000000f2e                __fmt_0_needed
+                0x0000000000000f2e                __fmt_s_needed
+
+.text.read_prec_or_width
+                0x0000000000000fa8       0x78
+ .text.read_prec_or_width
+                0x0000000000000fa8       0x78 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+
+.text.fputs     0x0000000000001020       0x74
+ .text.fputs    0x0000000000001020       0x74 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(fputs.o)
+                0x0000000000001020                fputs
+                0x0000000000001020                fputs_unlocked
+
+.text.__out     0x0000000000001094       0x68
+ .text.__out    0x0000000000001094       0x68 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__printf_core.o)
+                0x0000000000001094                __out
+
+.text.USART_Init
+                0x00000000000010fc       0x4e
+ .text.USART_Init
+                0x00000000000010fc       0x4e build/default/debug/usart0_tx.o
+                0x00000000000010fc                USART_Init
+
+.text.MainClkCtrl
+                0x000000000000114a       0x48
+ .text.MainClkCtrl
+                0x000000000000114a       0x48 build/default/debug/main_clk_ctrl.o
+                0x000000000000114a                MainClkCtrl
+
+.text.libgcc.div
+                0x0000000000001192       0x44
+ .text.libgcc.div
+                0x0000000000001192       0x44 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_udivmodsi4.o)
+                0x0000000000001192                __udivmodsi4
+
+.text.__wrap_printf
+                0x00000000000011d6       0x32
+ .text.__wrap_printf
+                0x00000000000011d6       0x32 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__sio_printf_doux.o)
+                0x00000000000011d6                _printf_cdopuxX
+
+.text.libgcc.prologue
+                0x0000000000001208       0x32
+ .text.libgcc.prologue
+                0x0000000000001208       0x32 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_prologue.o)
+                0x0000000000001208                __prologue_saves__
+
+.text.__vfprintf
+                0x000000000000123a       0x30
+ .text.__vfprintf
+                0x000000000000123a       0x30 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(__int_vfprintf.o)
+                0x000000000000123a                __vfprintf
+
+.text.libgcc.prologue
+                0x000000000000126a       0x30
+ .text.libgcc.prologue
+                0x000000000000126a       0x30 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/avrxmega2/memx-const\libgcc.a(_epilogue.o)
+                0x000000000000126a                __epilogue_restores__
+
+.text.SPI_Host_Init
+                0x000000000000129a       0x2e
+ .text.SPI_Host_Init
+                0x000000000000129a       0x2e build/default/debug/main.o
+                0x000000000000129a                SPI_Host_Init
+
+.text.strlen    0x00000000000012c8       0x2c
+ .text.strlen   0x00000000000012c8       0x2c c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(strlen.o)
+                0x00000000000012c8                strlen
+
+.text.exit      0x00000000000012f4       0x16
+ .text.exit     0x00000000000012f4       0x16 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(exit.o)
+                0x00000000000012f4                exit
+
+.text.puts      0x000000000000130a       0x12
+ .text.puts     0x000000000000130a       0x12 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(puts.o)
+                0x000000000000130a                puts
+
+.text.toupper   0x000000000000131c       0x12
+ .text.toupper  0x000000000000131c       0x12 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(toupper.o)
+                0x000000000000131c                toupper
+
+.text.USART0_sendChar
+                0x000000000000132e       0x10
+ .text.USART0_sendChar
+                0x000000000000132e       0x10 build/default/debug/usart0_tx.o
+                0x000000000000132e                USART0_sendChar
+
+.text.tolower   0x000000000000133e       0x10
+ .text.tolower  0x000000000000133e       0x10 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(tolower.o)
+                0x000000000000133e                tolower
+
+.text.USART0_printChar
+                0x000000000000134e        0xa
+ .text.USART0_printChar
+                0x000000000000134e        0xa build/default/debug/usart0_tx.o
+                0x000000000000134e                USART0_printChar
+
+.text           0x0000000000001358        0x4
+ .text          0x0000000000001358        0x4 C:/Users/c52467/.mchp_packs/Microchip/AVR-Dx_DFP/2.3.272/xc8/avr/lib/avrxmega2/memx-const/crtavr64dd32.o
+                0x0000000000001358                __vector_22
+                0x0000000000001358                __vector_28
+                0x0000000000001358                __vector_1
+                0x0000000000001358                __vector_32
+                0x0000000000001358                __vector_34
+                0x0000000000001358                __vector_24
+                0x0000000000001358                __vector_12
+                0x0000000000001358                __bad_interrupt
+                0x0000000000001358                __vector_6
+                0x0000000000001358                __vector_31
+                0x0000000000001358                __vector_35
+                0x0000000000001358                __vector_3
+                0x0000000000001358                __vector_23
+                0x0000000000001358                __vector_30
+                0x0000000000001358                __vector_25
+                0x0000000000001358                __vector_11
+                0x0000000000001358                __vector_13
+                0x0000000000001358                __vector_17
+                0x0000000000001358                __vector_19
+                0x0000000000001358                __vector_7
+                0x0000000000001358                __vector_27
+                0x0000000000001358                __vector_5
+                0x0000000000001358                __vector_33
+                0x0000000000001358                __vector_4
+                0x0000000000001358                __vector_9
+                0x0000000000001358                __vector_2
+                0x0000000000001358                __vector_21
+                0x0000000000001358                __vector_15
+                0x0000000000001358                __vector_29
+                0x0000000000001358                __vector_8
+                0x0000000000001358                __vector_26
+                0x0000000000001358                __vector_14
+                0x0000000000001358                __vector_10
+                0x0000000000001358                __vector_16
+                0x0000000000001358                __vector_18
+                0x0000000000001358                __vector_20
+
+.text._Exit     0x000000000000135c        0x4
+ .text._Exit    0x000000000000135c        0x4 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(_Exit.o)
+                0x000000000000135c                _Exit
+
+.text.__dummy_fini
+                0x0000000000001360        0x2
+ .text.__dummy_fini
+                0x0000000000001360        0x2 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(exit.o)
+                0x0000000000001360                _fini
+
+.text.__dummy_funcs_on_exit
+                0x0000000000001362        0x2
+ .text.__dummy_funcs_on_exit
+                0x0000000000001362        0x2 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(exit.o)
+                0x0000000000001362                __funcs_on_exit
+
+.text.__dummy_simulator_exit
+                0x0000000000001364        0x2
+ .text.__dummy_simulator_exit
+                0x0000000000001364        0x2 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(exit.o)
+                0x0000000000001364                __simulator_exit
+
+.data.USART_stream
+                0x0000000000806002       0x11 load address 0x0000000000001366
+ .data.USART_stream
+                0x0000000000806002       0x11 build/default/debug/usart0_tx.o
+                0x0000000000806002                USART_stream
+
+.data._stdout   0x0000000000806013        0x2 load address 0x0000000000001377
+ .data._stdout  0x0000000000806013        0x2 c:/program files/microchip/xc8/v2.41/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega2/memx-const\libc.a(stdout.o)
+                0x0000000000806013                _stdout
