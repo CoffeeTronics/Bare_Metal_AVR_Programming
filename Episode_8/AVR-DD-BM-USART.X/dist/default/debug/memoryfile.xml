@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/debug/AVR-DD-BM-USART.X.debug.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>65536</length>                 
+      <used>3974</used>                     
+      <free>61562</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>8192</length>                 
+      <used>74</used>                     
+      <free>8118</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
