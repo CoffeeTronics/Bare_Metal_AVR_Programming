@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/AVR-DD-BM-EP10-A.X.production.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>65536</length>                 
+      <used>4472</used>                     
+      <free>61064</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>8192</length>                 
+      <used>57</used>                     
+      <free>8135</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
